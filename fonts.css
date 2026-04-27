@@ -1,0 +1,13 @@
+@font-face {
+  font-family: 'TANKER';
+  src: url('TANKER.woff2') format('otf');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Pilcrow Rounded';
+  src: url('PilcrowRounded.woff2') format('ttf');
+  font-weight: normal;
+  font-style: normal;
+}
